@@ -112,8 +112,8 @@
 
         one-hand_layer {
             bindings = <
-        &trans  &trans  &trans  &trans  &trans    &trans  &trans          &trans          &trans     &trans
-        &trans  &trans  &trans  &trans  &trans    &trans  &kp ENTER       &kp UP_ARROW    &trans     &trans
+        &trans  &trans  &trans  &trans  &trans    &trans  &kp S           &kp D           &trans     &trans
+        &trans  &trans  &trans  &trans  &trans    &kp G   &kp ENTER       &kp UP_ARROW    &trans     &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans
                         &trans  &trans  &trans    &trans  &trans          &trans
             >;
