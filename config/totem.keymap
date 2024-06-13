@@ -44,7 +44,7 @@
 
         left_alt_key {
             bindings = <&kp LEFT_ALT>;
-            key-positions = <34 33>;
+            key-positions = <20 32>;
         };
     };
 
